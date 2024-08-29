@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "7f782a65c32230a1",
+    "id": "c792f405058b94dd",
     "type": "split",
     "children": [
       {
-        "id": "3a3bc9a4c625d40e",
+        "id": "95108af52eaeb80a",
         "type": "tabs",
         "children": [
           {
-            "id": "e013a9e37dae074c",
+            "id": "8e8fe3eaee645d28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack Open/Full Stack Part 0 Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2608e4508f73b5b4",
+    "id": "7cd1b5f56a7aff53",
     "type": "split",
     "children": [
       {
-        "id": "3e1d5d077b27cab0",
+        "id": "d739a624a008316e",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dfdb54f62b603e",
+            "id": "81e37bcb0be3da74",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "4a6b82dcf4b16187",
+            "id": "60ec6092e701984d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "5547c14c25c54e95",
+            "id": "fb046610dc61d1ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,20 +72,28 @@
     "width": 300
   },
   "right": {
-    "id": "c3207bd5b2fa3659",
+    "id": "898df29684113bec",
     "type": "split",
     "children": [
       {
-        "id": "312e54089e841e84",
+        "id": "c925d76946e49998",
         "type": "tabs",
         "children": [
           {
-            "id": "6af48f4c3cbf7f10",
+            "id": "d62dad142021434d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "48b00dd4600826c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Stack Open/First Obsidian Note.md",
+                "file": "Full Stack Open/Full Stack Part 0 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +105,19 @@
             }
           },
           {
-            "id": "a63e9b578b05cf14",
+            "id": "98e8f2a64c2ee4ad",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Stack Open/First Obsidian Note.md",
+                "file": "Full Stack Open/Full Stack Part 0 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0ad34cf8631b20b5",
+            "id": "a2557e7f1efea0cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,12 +128,12 @@
             }
           },
           {
-            "id": "a3e322d8ba12e1c0",
+            "id": "45595537bb0b5cce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Stack Open/First Obsidian Note.md"
+                "file": "Full Stack Open/Full Stack Part 0 Notes.md"
               }
             }
           }
@@ -129,11 +141,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -142,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6dfdb54f62b603e",
+  "active": "81e37bcb0be3da74",
   "lastOpenFiles": [
+    "Full Stack Open/Pasted image 20240828202755.png",
+    "Full Stack Open/Pasted image 20240828201717.png",
     "Full Stack Open/First Obsidian Note.md",
-    "README.md",
-    "Full Stack Open"
+    "Excalidraw/First Drawing.md"
   ]
 }

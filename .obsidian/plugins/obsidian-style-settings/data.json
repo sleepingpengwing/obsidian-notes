@@ -1,0 +1,11 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-yellow",
+  "entry-point@@smooth-mode": true,
+  "entry-point@@minimal-mode": false,
+  "entry-point@@minimal-sidebar": "sidebar-hide",
+  "entry-point@@color-scheme-selector": "color-scheme-default",
+  "entry-point@@separate-color-scheme": false
+}
